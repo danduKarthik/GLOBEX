@@ -1,0 +1,8 @@
+node_modules
+client/dist
+server/data/db.json
+.env
+
+client/public/media/photos
+server/data/cache
+server/data/world-cities.json

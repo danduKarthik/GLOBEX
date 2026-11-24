@@ -1,0 +1,30 @@
+{{pagebanner|India banner Taj Mahal.jpg}}
+{{geo|21|78|zoom=4}}
+'''[[w:India|India]]''' is a large country in [[South Asia]]. It is the world's most populous nation and a land of great diversity, with snowy Himalayan peaks, tropical beaches, deserts and some of the oldest cities on Earth.
+
+==Regions==
+{{Regionlist
+|regionmap=India regions map.png
+|region1name=[[North India]]
+|region1color=#b5d29f
+|region1description=The Mughal heartland: [[Delhi]], [[Agra]] and the Himalayas.
+|region2name=[[South India]]
+|region2color=#d09440
+|region2description=Temples, backwaters and beaches in [[Kerala]], [[Tamil Nadu]] and [[Karnataka]].
+|region3name=[[Rajasthan]]
+|region3description=Forts, palaces and the Thar Desert.
+}}
+
+==Cities==
+* {{marker|type=city|name=[[Delhi]]|lat=28.6100|long=77.2300|wikidata=Q1353}} — the capital, with Mughal monuments and the old city
+* {{marker|type=city|name=[[Mumbai]]|lat=19.0761|long=72.8775|wikidata=Q1156}} — India's biggest city and home of Bollywood
+* {{marker|type=city|name=[[Jaipur]]|lat=26.9260|long=75.8235|wikidata=Q66485}} — the Pink City of palaces and forts
+* {{marker|type=city|name=[[Hyderabad (India)|Hyderabad]]|lat=17.3617|long=78.4747|wikidata=Q1361}} — Charminar, biryani and pearls
+* {{marker|type=city|name=[[Varanasi]]|lat=25.3176|long=82.9739}} — the holy city on the Ganges
+
+==Other destinations==
+* [[Taj Mahal]] — the white-marble mausoleum in [[Agra]]
+* {{marker|type=vicinity|name=[[Ladakh]]|lat=34.15|long=77.58}} — high-altitude desert with Buddhist monasteries
+
+==Understand==
+India has a long history.

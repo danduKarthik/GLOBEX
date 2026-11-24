@@ -1,0 +1,7 @@
+{{IsPartOf|Paris}}
+'''The 7th arrondissement''' is home to the Eiffel Tower.
+==See==
+* {{see | name=Eiffel Tower | alt=Tour Eiffel | lat=48.8584 | long=2.2945 | hours=09:00-23:45 | price=€29 to the top | wikipedia=Eiffel Tower | content=The iron lattice tower built for the 1889 World's Fair.}}
+* {{see | name=Musée d'Orsay | lat=48.8600 | long=2.3266 | price=€16 | wikipedia=Musée d'Orsay | content=Impressionist masterpieces in a former railway station.}}
+==Do==
+* {{do | name=Seine river cruise | price=€15 | content=Boat trips past the monuments, magical at night.}}

@@ -1,0 +1,17 @@
+{{pagebanner|Paris banner Eiffel Tower.jpg}}
+{{geo|48.8567|2.3508|zoom=11}}
+'''[[w:Paris|Paris]]''' is the capital of [[France]]. With its boulevards, cafés and world-famous museums, it is one of the most visited cities on Earth.
+
+==Districts==
+{{Regionlist
+|regionmap=Paris districts map.png
+|region1name=[[Paris/1st arrondissement|1st]]
+|region1description=The Louvre and the Tuileries.
+|region2name=[[Paris/7th arrondissement|7th]]
+|region2description=The Eiffel Tower and Les Invalides.
+|region3name=[[Paris/18th arrondissement|18th (Montmartre)]]
+|region3description=Sacré-Cœur and the artists' hill.
+}}
+
+==See==
+Most sights are listed in the district articles.

@@ -1,0 +1,16 @@
+# One-click deploy on Render (https://render.com): the Express API also serves the built React app.
+services:
+  - type: web
+    name: globex
+    runtime: node
+    plan: free
+    buildCommand: npm run render-build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ANTHROPIC_API_KEY
+        sync: false

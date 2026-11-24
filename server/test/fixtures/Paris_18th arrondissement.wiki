@@ -1,0 +1,4 @@
+{{IsPartOf|Paris}}
+'''Montmartre''' is the hilltop artists' quarter.
+==See==
+* {{see | name=Sacré-Cœur | lat=48.8867 | long=2.3431 | wikipedia=Sacré-Cœur, Paris | content=White-domed basilica with views over the whole city.}}

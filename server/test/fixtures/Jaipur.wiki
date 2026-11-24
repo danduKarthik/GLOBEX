@@ -1,0 +1,32 @@
+{{pagebanner|Jaipur banner Hawa Mahal.jpg|caption=Hawa Mahal}}
+{{geo|26.9260|75.8235|zoom=13}}
+'''Jaipur''' is the capital of [[Rajasthan]]. Known as the ''Pink City'' for the colour of its old town walls, it is famous for its forts, palaces and bazaars.
+
+==Understand==
+Founded in 1727 by Maharaja Jai Singh II.
+
+==See==
+* {{see
+| name=Amber Fort | alt=Amer Fort | url=https://www.amerfort.in | email=
+| address=Devisinghpura, Amer | lat=26.9855 | long=75.8513 | directions=11 km north of the city
+| phone= | tollfree= | hours=08:00-17:30 | price=₹100 for Indians, ₹500 for foreigners
+| wikipedia=Amer Fort | image=Amber Fort, Jaipur.jpg | wikidata=Q4742218
+| lastedit=2024-01-10
+| content=A large fort-palace complex on a hill, famous for the mirror-decorated '''Sheesh Mahal''' and views over [[Maota Lake]].
+}}
+* {{see
+| name=Jaigarh Fort | lat=26.9851 | long=75.8456 | hours=09:00-16:30 | price=₹70
+| wikipedia=Jaigarh Fort
+| content=Home of the Jaivana, once the world's largest cannon on wheels, with gardens and great views.
+}}
+* {{see | name=Nahargarh Fort | lat=26.9373 | long=75.8155 | wikipedia=Nahargarh Fort | content=The smallest of the three forts, with sweeping views of the city at sunset.}}
+* {{see | name=City Palace | address=Old City | lat=26.9258 | long=75.8237 | price=₹200 | wikipedia=City Palace, Jaipur | content=A palace complex blending Rajput and Mughal styles; part of it is still the royal residence.}}
+* {{see | name=Jal Mahal | lat=26.9535 | long=75.8460 | wikipedia=Jal Mahal | content=The "Water Palace" in the middle of Man Sagar lake.}}
+* {{listing | type=see | name=Hawa Mahal | lat=26.9239 | long=75.8267 | wikipedia=Hawa Mahal | content=The honeycomb "Palace of Winds" with 953 small windows.}}
+
+==Do==
+* {{do | name=Hot-air balloon ride | price=₹12,000 | content=Float over the forts at sunrise.}}
+* {{do | name=Elephant-free Amber walk | content=Walk up to the fort through the old ramparts.}}
+
+==Eat==
+* {{eat | name=Laxmi Mishthan Bhandar | content=Famous sweet shop.}}

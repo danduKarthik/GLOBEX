@@ -1,0 +1,5 @@
+{{IsPartOf|Paris}}
+'''The 1st arrondissement''' is the historic heart of Paris.
+==See==
+* {{see | name=Louvre | alt=Musée du Louvre | lat=48.8606 | long=2.3376 | hours=09:00-18:00, closed Tue | price=€22 | wikipedia=Louvre | content=The world's largest art museum, home of the ''Mona Lisa''.}}
+* {{see | name=Tuileries Garden | lat=48.8635 | long=2.3275 | wikipedia=Tuileries Garden | content=Formal gardens between the Louvre and Place de la Concorde.}}

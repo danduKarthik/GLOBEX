@@ -1,0 +1,17 @@
+{
+  "name": "globex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GlobeX \u2014 full-stack travel booking (flights, trains, buses, car rental)",
+  "scripts": {
+    "setup": "npm install && npm install --prefix server && npm install --prefix client && npm run photos",
+    "dev": "concurrently -n API,WEB -c cyan,magenta \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm run build --prefix client",
+    "start": "npm start --prefix server",
+    "photos": "node scripts/download-photos.mjs",
+    "render-build": "npm install --prefix server && npm install --prefix client --include=dev && (npm run photos || true) && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
